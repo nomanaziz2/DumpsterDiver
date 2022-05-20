@@ -1,5 +1,9 @@
+## Custom Usage Instructions
+1. `python3 DumpsterDiver.py -p /Folder -a --min-key 8 --max-key 300 -o /tmp/Unfiltered`
+2. `python3 Filtering.py RecordsNew > /tmp/Findings.txt`
 
 
+***
 <p align="center">
   <img src="./static/images/DumpsterDiver_logo.png" width="400" alt="DumpsterDiver_logo" />
 </p>

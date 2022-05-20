@@ -9,3 +9,6 @@
 # Output files
 results.json
 errors.log
+
+# Venv
+venv
